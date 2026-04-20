@@ -1,0 +1,94 @@
+.html{
+    box-sizing: border-box;
+    height: 100;
+}
+
+*,
+*::before,
+*::after{
+    box-sizing: inherit;
+    margin: 1;
+    padding: 1;
+}
+
+
+
+.fondo{
+    backdrop-filter: blur(5.5px);
+    -webkit-backdrop-filter: blur(5.5px);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(35, 35, 35, 0.1);
+    color: #232323;
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    background: rgba(255, 255, 255, 0.30);
+    border: 1px solid rgba(255, 255, 255, 0.34);
+    flex-basis: 400px;
+    padding: 20px 30px;
+    background: linear-gradient(180deg, #003f5c, #58508d, #bc5090);
+}
+
+.title{
+    font-size: 20px;
+    color: #9e9246;
+    -webkit-text-stroke: 0.5px rgb(34, 33, 33);
+    text-align: center;
+}
+
+.titlechich{
+    text-align: center;
+    color: #9e9246;
+    -webkit-text-stroke: 0.5px rgb(34, 33, 33);
+}
+.tultitle{
+    text-align: center;
+    color: #9e9246;
+    -webkit-text-stroke: 0.5px rgb(34, 33, 33);
+}
+
+.paltitle{
+    text-align: center;
+    color: #9e9246;
+    -webkit-text-stroke: 0.5px rgb(34, 33, 33);
+}
+
+.cobtitle{
+    text-align: center;
+    color: #9e9246;
+    -webkit-text-stroke: 0.5px rgb(34, 33, 33);
+}
+
+.tiktitle{
+    text-align: center;
+    color: #9e9246;
+    -webkit-text-stroke: 0.5px rgb(34, 33, 33);
+}
+
+.pie-pg{
+    text-align: center;
+}
+
+.chichenimg{
+    width: 500px;
+    height: 300px;
+}
+
+.tulimg{
+    width: 500px;
+    height: 300px;
+}
+
+.palenqueimg{
+    width: 500px;
+    height: 300px;
+}
+
+.cobaimg{
+    width: 500px;
+    height: 300px;
+}
+
+.tikalimg{
+    width: 500px;
+    height: 300px;
+}
